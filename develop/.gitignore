@@ -8,7 +8,8 @@
 
 # production
 /build
-
+#secret
+/backend/config.js
 # misc
 .DS_Store
 .env.local
